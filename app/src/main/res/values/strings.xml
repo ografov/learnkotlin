@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Kotlin</string>
+    <string name="title_activity_main">Hello Kotlin</string>
+    <string name="hello_world">Hello Kotlin!</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">HELLO\nANDROID</string>
+</resources>
